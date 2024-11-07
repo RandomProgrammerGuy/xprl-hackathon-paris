@@ -8,8 +8,10 @@ Dates: Nov. 8 - Nov. 11 2024
 "The Saclayans"
 
 ## Members 
-- Parsa Farjam
+- **Parsa Farjam**
+
 Math/CS Double Degree Student, Paris Saclay University
 
-- Luna Dumartin
+- **Luna Dumartin**
+
 Math/CS Double Degree Student, Paris Saclay University
